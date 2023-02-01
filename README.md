@@ -1,4 +1,3 @@
-<h1>About <h1>
     working =
         case now of
             Night -> Qtile
