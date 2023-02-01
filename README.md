@@ -1,11 +1,12 @@
-!FARAH(){
-    loves = [Wayland, Python, Haskell]
-    studying = [Haskell] >>= 🧠
 
     working =
         case now of
             Night -> Qtile
             Day -> Improbable
+            !FARAH()        {
+                                loves = [Wayland, Python, Haskell],
+                                studying = [Haskell] >>= 🧠,
+                             }
 
     links =
         Links
@@ -13,4 +14,3 @@
             , web = "Not yet"
             , repos = "ArchXyz/code"
             }
-          }
