@@ -1,7 +1,4 @@
-computer languages: Bash (CI/CD) with sed and jq, ELisp (Emacs), TinyScheme (GIMP), JavaScript (NeoVim)
-memo ides and editors: Micro, NeoVim 
-clock130 vcs-tools: Git, GitHub
-
+<h1>About <h1>
     working =
         case now of
             Night -> Qtile
